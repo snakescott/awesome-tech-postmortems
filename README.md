@@ -1,4 +1,4 @@
-A curated list of awesome "tech as dumpster fire" resources, inspired by and templated
+A curated list of awesome tech postmortem resources, inspired by and templated
 on [awesome-python](https://github.com/vinta/awesome-python).
 
 <!-- prettier-ignore-start -->
