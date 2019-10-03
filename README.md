@@ -1,5 +1,5 @@
-A curated list of awesome tech postmortem resources, inspired by and templated
-on [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of awesome tech postmortem resources, inspired by and templated on
+[awesome-python](https://github.com/vinta/awesome-python).
 
 <!-- prettier-ignore-start -->
 
