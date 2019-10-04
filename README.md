@@ -30,11 +30,12 @@ from incidents.
 > that you see written about in the Google SRE book and other incident marketing
 > materials. It is a whole field of study and practice on extracting valuable data from
 > incidents focusing on how.
-> [Nora Jones](https://twitter.com/anthony_darius/status/1180136290852827136)
+
+[Nora Jones](https://twitter.com/anthony_darius/status/1180136290852827136)
 
 The postmortems linked generally do not meet the bar that Jones suggests for _incident
-analysis_ -- because very few (no?) tech organizations publish them. Many of the studies
-and resources linked do line up with this perspective.
+analysis_ -- because very few (no?) tech organizations publish them. However, many of
+the studies and resources linked do line up with the incident analysis perspective.
 
 ## Postmortems
 
