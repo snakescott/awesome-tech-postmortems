@@ -26,6 +26,16 @@ A curated list of awesome tech postmortem resources, inspired by and templated o
 The postmortems, studies, and resources curated here are those which enable learning
 from incidents.
 
+> PSA: _Incident Analysis_ is completely different than the standard postmortem process
+> that you see written about in the Google SRE book and other incident marketing
+> materials. It is a whole field of study and practice on extracting valuable data from
+> incidents focusing on how.
+> [Nora Jones](https://twitter.com/anthony_darius/status/1180136290852827136)
+
+The postmortems linked generally do not meet the bar that Jones suggests for _incident
+analysis_ -- because very few (no?) tech organizations publish them. Many of the studies
+and resources linked do line up with this perspective.
+
 ## Postmortems
 
 - [We had issues with Monzo on 29th July](https://monzo.com/blog/2019/09/08/why-monzo-wasnt-working-on-july-29th)
@@ -41,8 +51,10 @@ from incidents.
 
 ## Studies
 
+- [Approaching Overload: Diagnosis and Response to Anomalies in Complex and Automated Production Software Systems](https://etd.ohiolink.edu/!etd.send_file?accession=osu1543495231467142&disposition=attachment)(2018,
+  [Marisa Grayson](https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:174511))
 - [Report from the SNAFUcatchers Workshop on Coping With Complexity](https://snafucatchers.github.io)
-- [Approaching Overload: Diagnosis and Response to Anomalies in Complex and Automated Production Software Systems](https://etd.ohiolink.edu/!etd.send_file?accession=osu1543495231467142&disposition=attachment)
+  (2017-03-16, [SNAFUcatchers](https://snafucatchers.github.io))
 
 ## Resources
 
