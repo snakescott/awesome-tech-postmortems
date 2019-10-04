@@ -52,8 +52,8 @@ the studies and resources linked do line up with the incident analysis perspecti
 
 ## Studies
 
-- [Approaching Overload: Diagnosis and Response to Anomalies in Complex and Automated Production Software Systems](https://etd.ohiolink.edu/!etd.send_file?accession=osu1543495231467142&disposition=attachment)(2018,
-  [Marisa Grayson](https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:174511))
+- [Approaching Overload: Diagnosis and Response to Anomalies in Complex and Automated Production Software Systems](https://etd.ohiolink.edu/!etd.send_file?accession=osu1543495231467142&disposition=attachment)
+  (2018, [Marisa Grayson](https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:174511))
 - [Report from the SNAFUcatchers Workshop on Coping With Complexity](https://snafucatchers.github.io)
   (2017-03-16, [SNAFUcatchers](https://snafucatchers.github.io))
 
