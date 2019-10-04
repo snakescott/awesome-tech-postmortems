@@ -29,8 +29,15 @@ from incidents.
 ## Postmortems
 
 - [We had issues with Monzo on 29th July](https://monzo.com/blog/2019/09/08/why-monzo-wasnt-working-on-july-29th)
+  (2019-07-29, [Monzo](https://monzo.com))
 - [Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
+  (2019-07-02, [Cloudflare](https://www.cloudflare.com))
 - [What We Learned from the Recent Mandrill Outage](https://mailchimp.com/what-we-learned-from-the-recent-mandrill-outage/)
+  (2019-03-26, [Mailchimp](https://mailchimp.com/))
+- [Incident review: API and Dashboard outage on 10 October 2017](https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/)
+  (2017-10-10, [GoCardless](https://gocardless.com/))
+- [Postmortem of database outage of January 31](https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/)
+  (2017-01-31, [GitLab](https://gitlab.com/))
 
 ## Studies
 
