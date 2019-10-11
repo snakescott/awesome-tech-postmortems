@@ -10,7 +10,9 @@ A curated list of awesome tech postmortem resources, inspired by and templated o
 - [Awesome Tech Postmortems *](#awesome-tech-postmortems-)
   - [Postmortems](#postmortems)
   - [Studies](#studies)
-  - [Resources](#resources)
+  - [Bulk incident analysis](#bulk-incident-analysis)
+  - [How to approach postmortems](#how-to-approach-postmortems)
+- [Other lists of postmortems](#other-lists-of-postmortems)
 - [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -45,6 +47,8 @@ the studies and resources linked do line up with the incident analysis perspecti
   (2019-07-02, [Cloudflare](https://www.cloudflare.com))
 - [What We Learned from the Recent Mandrill Outage](https://mailchimp.com/what-we-learned-from-the-recent-mandrill-outage/)
   (2019-03-26, [Mailchimp](https://mailchimp.com/))
+- [Postmortem: Azure DevOps Service Outages in October 2018](https://devblogs.microsoft.com/devopsservice/?p=17665)
+  (2018-10-16, [Azure DevOps Service](https://devblogs.microsoft.com/devopsservice/))
 - [Incident review: API and Dashboard outage on 10 October 2017](https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/)
   (2017-10-10, [GoCardless](https://gocardless.com/))
 - [Postmortem of database outage of January 31](https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/)
@@ -56,10 +60,24 @@ the studies and resources linked do line up with the incident analysis perspecti
   (2018, [Marisa Grayson](https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:174511))
 - [Report from the SNAFUcatchers Workshop on Coping With Complexity](https://snafucatchers.github.io)
   (2017-03-16, [SNAFUcatchers](https://snafucatchers.github.io))
+- [Counterfactual Thinking, Rules, and The Knight Capital Accident](https://www.kitchensoap.com/2013/10/29/counterfactuals-knight-capital/)
+  (2013-10-29, [John Allspaw](https://www.kitchensoap.com))
 
-## Resources
+## Bulk incident analysis
+
+- [What bugs cause production cloud incidents](https://people.cs.uchicago.edu/~shanlu/paper/hotos19_azure.pdf)
+  (2019-05-13, various)
+- [Incidents — Trends from the Trenches](https://m.subbu.org/incidents-trends-from-the-trenches-e2f8497d52ed)
+  (2019-02-26, [Subbu Allamaraju](https://subbu.org/)/Expedia)
+
+## How to approach postmortems
 
 - [Etsy Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
+
+# Other lists of postmortems
+
+- [danluu/post-mortems](https://github.com/danluu/post-mortems) on GitHub
+- [lorin/major-incidents](https://github.com/lorin/major-incidents) on GitHub
 
 # Contributing
 
