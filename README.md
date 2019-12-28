@@ -41,6 +41,13 @@ the studies and resources linked do line up with the incident analysis perspecti
 
 ## Postmortems
 
+- [Incident Report: Running Dry on Memory Without Noticing](https://www.honeycomb.io/blog/incident-report-running-dry-on-memory-without-noticing/)
+  (2019-11-06,
+  [Honeycomb](https://www.honeycomb.io/blog/incident-report-running-dry-on-memory-without-noticing/))
+  - [I sat in on a Honeycomb incident review and you won't believe what we learned next](https://reading.supply/@jhscott/i-sat-in-on-a-honeycomb-incident-review-and-you-wont-believe-what-we-learned-next-zts2NE)
+    (2019-11-08, Jacob Scott)
+- [The Consul outage that never happened](https://about.gitlab.com/blog/2019/11/08/the-consul-outage-that-never-happened/)
+  (2019-08-07, [Gitlab](https://gitlab.com))
 - [We had issues with Monzo on 29th July](https://monzo.com/blog/2019/09/08/why-monzo-wasnt-working-on-july-29th)
   (2019-07-29, [Monzo](https://monzo.com))
 - [Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
