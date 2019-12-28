@@ -79,6 +79,7 @@ the studies and resources linked do line up with the incident analysis perspecti
 
 ## How to approach postmortems
 
+- [Learning from Incidents in Software](https://www.learningfromincidents.io/)
 - [Etsy Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
 
 # Other lists of postmortems
